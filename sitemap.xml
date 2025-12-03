@@ -68,24 +68,81 @@
         <priority>0.8</priority>
     </url>
     
-    <!-- Blog/Article Pages (Add these when you create blog content) -->
+    <!-- Blog Main Page -->
     <url>
-        <loc>https://texttoolhub.world/blog/how-to-use-reverse-text-generator.html</loc>
-        <lastmod>2024-01-15</lastmod>
+        <loc>https://texttoolhub.world/blog.html</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Blog Articles -->
+    <url>
+        <loc>https://texttoolhub.world/blog/reverse-text-generator-guide.html</loc>
+        <lastmod>2024-01-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     
     <url>
-        <loc>https://texttoolhub.world/blog/small-text-for-social-media.html</loc>
-        <lastmod>2024-01-15</lastmod>
+        <loc>https://texttoolhub.world/blog/small-text-social-media.html</loc>
+        <lastmod>2024-01-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     
     <url>
-        <loc>https://texttoolhub.world/blog/learn-morse-code-online.html</loc>
-        <lastmod>2024-01-15</lastmod>
+        <loc>https://texttoolhub.world/blog/morse-code-translator-guide.html</loc>
+        <lastmod>2024-01-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://texttoolhub.world/blog/creative-text-manipulation.html</loc>
+        <lastmod>2024-01-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://texttoolhub.world/blog/unicode-text-formatting.html</loc>
+        <lastmod>2024-01-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://texttoolhub.world/blog/text-tools-content-creators.html</loc>
+        <lastmod>2024-01-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://texttoolhub.world/blog/seo-text-formatting.html</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://texttoolhub.world/blog/accessibility-text-tools.html</loc>
+        <lastmod>2024-01-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://texttoolhub.world/blog/history-text-encoding.html</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://texttoolhub.world/blog/future-text-processing.html</loc>
+        <lastmod>2024-01-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
